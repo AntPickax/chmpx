@@ -1,3 +1,9 @@
+chmpx (1.0.110) unstable; urgency=low
+
+  * Changed support OS and Updated codes/mail addresses - #149
+
+ -- Takeshi Nakatani <ggtakec@gmail.com>  Tue, 14 Oct 2025 12:26:12 +0900
+
 chmpx (1.0.109) unstable; urgency=low
 
   * Improved about normalization process for node hostname(FQDN) - #147
